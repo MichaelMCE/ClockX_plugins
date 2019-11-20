@@ -1,5 +1,5 @@
 
-#	ClocX device output plugins for various displays
+#	ClocX device output plugins
 
 
 
